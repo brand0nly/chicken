@@ -9,3 +9,5 @@ more things
 This is a third thing I'm doing
 
 I did more things
+
+Here are some edits from GitHub.com
